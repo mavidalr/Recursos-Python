@@ -3,7 +3,7 @@
 Recopilación de códigos fuente en Python
 
 ## Resúmen de directorios
-+ Python con MySql (Creación de tablas y manejo de consultas insert, update, delete).
++ [Python y MySql](https://github.com/mavidalr/Recursos-Python/tree/master/Python%20y%20MySql) (Creación de tablas y manejo de consultas insert, update, delete).
 
 
 ### Excepción de responsabilidades
